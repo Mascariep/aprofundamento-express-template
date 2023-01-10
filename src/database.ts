@@ -8,7 +8,7 @@ export const accounts: TAccount[] = [
         type: ACCOUNT_TYPE.GOLD
     },
     {
-        id: "a002",
+        id: "a011",
         ownerName: "Astrodev",
         balance: 500000,
         type: ACCOUNT_TYPE.BLACK
